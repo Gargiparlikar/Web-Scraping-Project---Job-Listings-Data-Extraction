@@ -1,30 +1,35 @@
-# Web-Scraping-Project---Job-Listings-Data-Extraction
+# Web Scraping Project - Job Listings Data Extraction & Power BI Dashboard
 
-This project focuses on **web scraping** job listing data from a website using Python. The scraped data includes essential job-related information such as Job Title, Company Name, Location, and Apply Link. The final data is stored in a structured format for analysis and visualization.
+This project focuses on **web scraping** job listing data from a website using Python and analyzing the collected information using **Power BI**. The scraped dataset includes Job Title, Company Name, Location, Required Skills, and Apply Link. The insights derived are visualized through an interactive dashboard.
 
 ---
 
 ## 📌 Project Objective
 
-The main aim of this project is to:
-- Extract job listing data automatically from a website
-- Clean and organize the scraped data
-- Save the data for analysis (CSV/Excel)
-- Understand data trends such as job availability by skills, companies, and locations
+- Automatically extract job listing details from the web
+- Clean and structure the data for analysis
+- Store the data in CSV format
+- Build a **Power BI Dashboard** to visualize job trends such as:
+  - Job demand by skill
+  - Job availability by company
+  - Job distribution by location
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology / Library | Purpose |
-|---------------------|---------|
-| Python              | Core programming language |
-| Requests / urllib   | Send HTTP requests to the website |
-| BeautifulSoup4      | Parse and scrape HTML content |
-| Pandas              | Store and clean the scraped data |
-| Jupyter Notebook / VS Code | Code execution and development environment |
+| Tool / Library | Purpose |
+|---------------|---------|
+| Python        | Core programming language |
+| Requests      | Sending HTTP requests |
+| BeautifulSoup4 | HTML parsing for web scraping |
+| Pandas        | Data cleaning and storage |
+| Power BI      | Data visualization and dashboard creation |
+| Jupyter Notebook / VS Code | Development environment |
 
----
 
-## 📂 Project Structure
+
+
+
+
 
